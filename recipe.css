@@ -1,0 +1,49 @@
+body {
+    padding: 10%;
+    background-color: rgba(242, 232, 128, 0.4);
+}
+
+.recipsmenu {
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    padding: 1%;
+    background-color: rgba(242, 232, 128, 0.4);
+    text-align: center;
+    border: 1px solid black;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+    border-color: rgb(255, 121, 87);
+}
+
+h1 {
+    padding: 1%;
+    text-align: center;
+    background-color: rgba(242, 232, 128, 0.4);
+    border: 1px solid black;
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+    border-color: rgb(255, 121, 87);
+}
+
+.items {
+    padding: 1%;
+    text-align: center;
+    background-color: rgba(237, 236, 235, 0.4);
+    border: 1px solid black;
+    border-color: rgb(255, 121, 87);
+}
+
+p {
+    padding: 1%;
+    text-align: center;
+}
+
+a {
+    padding: 1%;
+    color: rgb(0, 0, 0);
+}
+
+.owner {
+    padding: 0%;
+    text-align: end;
+}

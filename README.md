@@ -1,1 +1,3 @@
 # odin-recipes
+my first odin project
+it hase basic knowledge of html list link etc.....

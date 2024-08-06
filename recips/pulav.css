@@ -1,0 +1,53 @@
+.recipe {
+    background-image: url("https://kohinoor-joy.com/wp-content/uploads/2020/11/veg-pulao.jpg");
+    background-size: cover;
+    background-position: center;
+    color: cornsilk;
+    font-size: large;
+    font-family: cursive;
+    padding: 5%;
+    position: relative;
+}
+
+h1 {
+    padding: 10%;
+    padding-left: 42%;
+    background-image: url("https://png.pngtree.com/png-clipart/20231008/ourmid/pngtree-purple-text-frame-title-bar-banner-png-image_10197686.png");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: aliceblue;
+}
+
+h4 {
+    padding: 5%;
+    padding-left: 46%;
+    background-image: url("https://png.pngtree.com/png-clipart/20231008/ourmid/pngtree-purple-text-frame-title-bar-banner-png-image_10197686.png");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: aliceblue;
+}
+
+ol {
+    padding-left: 30%;
+}
+
+.content {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.footer {
+    padding-left: 45%;
+    padding-top: 5%;
+    font-family: cursive;
+}
+
+.photocover {
+    padding-left: 30%;  
+}
+
+.photo {
+    border-top-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+}
